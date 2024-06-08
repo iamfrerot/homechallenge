@@ -1,0 +1,16 @@
+{
+ "name": "home-challenge",
+ "version": "1.0.0",
+ "main": "Challenges/challenge.js",
+ "dependencies": {
+  "nodemon": "^3.1.3"
+ },
+ "devDependencies": {},
+ "scripts": {
+  "challenges": "npx nodemon Challenges/challenges.js"
+ },
+ "keywords": [],
+ "author": "",
+ "license": "ISC",
+ "description": ""
+}
