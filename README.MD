@@ -56,5 +56,5 @@ hasSubarraySum([4, 2, 5], 13);
 
 - Fully Responsive To different Screen
 - Hover Effects
-- Detail Modal For Each Pictures `Open` By `Click` on `Know More`
+- Detail Modal For Each Pictures Open By `Click` on `Know More`
 - Modal: To Close Modal `Keypress on Escape` key or `Click` on Screen
