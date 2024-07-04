@@ -59,4 +59,4 @@ hasSubarraySum([4, 2, 5], 13);
 - Detail Modal For Each Pictures Open By `Click` on `Know More`
 - Modal: To Close Modal `Keypress on Escape` key or `Click` on Screen
 ## Check The Hosted Version
-[Home Challenge Site](https://homechallenge.vercel.app/)
+[Home Challenge Site](https://challenge.frerot.dev)
